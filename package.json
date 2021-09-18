@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons-kit": "^1.1.6",
     "react-scripts": "4.0.3",
+    "slate": "^0.34.5",
+    "slate-react": "^0.13.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
